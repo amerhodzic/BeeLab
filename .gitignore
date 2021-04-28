@@ -1,0 +1,6 @@
+.idea/*
+
+venv/
+chunks/
+ljud_1/
+.DS_Store
